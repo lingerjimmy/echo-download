@@ -1,6 +1,6 @@
 # echo-download
 
-××下载Echo mp3的脚本××
+**下载Echo mp3的脚本**
 
 使用方法：
 使用方法：`python echo.py url`  
